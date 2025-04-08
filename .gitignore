@@ -1,5 +1,2 @@
-# Ignore environment files
-.env
-frontend/.env
-backend/.env
-admin/.env
+**/.env
+
